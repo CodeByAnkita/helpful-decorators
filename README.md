@@ -10,6 +10,7 @@
 ```js
 npm install helpful-decorators
 yarn add helpful-decorators
+tsc -b --experimentalDecorators
 ```
 
 ## Usage
